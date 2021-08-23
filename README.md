@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpectralAssassin
+- 👋 Hi, I’m @SpectralAssassin I attended Fullsail University for Game Design and graduated with my Certificate of Completion of the Game Design program.
 - 👀 I’m interested in ... Game Design, Playing FPS, Racing, and Fantasy MMORPG's.
 - 🌱 I’m currently learning ... Coding & Programming
 - 💞️ I’m looking to collaborate on ... The Game Design field
